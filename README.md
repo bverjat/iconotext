@@ -17,17 +17,10 @@
 1. **édition** des séquences d’images dans chaque groupe
   - lier l’image avec un **fragment de texte**
 
-2. **partage** des collections d’images du groupe
-  - **agencer** les séquences d’images ensemble
-  - comparer visuellement l’interprétation d’un même **fragment de texte** par **plusieurs groupes**.
+2. **publication** d’une version stabilisée
 
-3. **publication** d’une version stabilisée
-
-  - afficher ou non les légendes (en cas de présence du texte dans l'image) 
-  - sélectionner le nombre de version à comparer 
-
-  - exporter en PDF (en vue d’une impression à la demande )
-  - exporter en html/css/js statique
+  - exporter en PDF (impression à la demande, d'un publication en ligne … )
+  - exporter en suite d'images jpg (réseaux sociaux, tirages photo …)
 
 ****
 Réalisé par Benoît Verjat et Nicolas Couturier, production Cneai,
